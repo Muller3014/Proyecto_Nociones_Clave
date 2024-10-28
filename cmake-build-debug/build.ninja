@@ -55,6 +55,18 @@ build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj: CXX_COMPILE
   OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
   OBJECT_FILE_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1
 
+build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Estudiante.cpp.obj: CXX_COMPILER__Proyecto_Nociones_Clave_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/Estudiante.cpp || cmake_object_order_depends_target_Proyecto_Nociones_Clave
+  DEP_FILE = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1\Estudiante.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1
+
+build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Persona.cpp.obj: CXX_COMPILER__Proyecto_Nociones_Clave_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/Persona.cpp || cmake_object_order_depends_target_Proyecto_Nociones_Clave
+  DEP_FILE = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1\Persona.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Proyecto_Nociones_Clave
@@ -63,7 +75,7 @@ build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable Proyecto_Nociones_Clave.exe
 
-build Proyecto_Nociones_Clave.exe: CXX_EXECUTABLE_LINKER__Proyecto_Nociones_Clave_Debug CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj
+build Proyecto_Nociones_Clave.exe: CXX_EXECUTABLE_LINKER__Proyecto_Nociones_Clave_Debug CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Estudiante.cpp.obj CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Persona.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
