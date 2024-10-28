@@ -3,4 +3,4 @@ project(Proyecto_Nociones_Clave)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Proyecto_Nociones_Clave main.cpp)
+add_executable(Proyecto_Nociones_Clave Proyecto1/main.cpp)
