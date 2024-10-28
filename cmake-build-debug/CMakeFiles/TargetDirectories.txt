@@ -1,0 +1,3 @@
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/Proyecto_Nociones_Clave.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
