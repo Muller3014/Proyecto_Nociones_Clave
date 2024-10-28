@@ -2,6 +2,7 @@
 #include "Estudiante.h"
 #include "Persona.h"
 
+
 int suma(int a, int b) {
     return a + b;
 }

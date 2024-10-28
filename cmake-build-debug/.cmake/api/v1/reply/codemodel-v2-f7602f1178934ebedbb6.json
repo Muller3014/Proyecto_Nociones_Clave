@@ -9,13 +9,14 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.29"
+						"string" : "3.20"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "Proyecto_Nociones_Clave",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,9 +40,16 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Proyecto_Nociones_Clave::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Proyecto_Nociones_Clave-Debug-2bcc01fdebc2ff6a2489.json",
-					"name" : "Proyecto_Nociones_Clave",
+					"id" : "Proyecto1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto1-Debug-3e5c73e743f2317b7182.json",
+					"name" : "Proyecto1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto2-Debug-fe9522a5a8373097c108.json",
+					"name" : "Proyecto2",
 					"projectIndex" : 0
 				}
 			]

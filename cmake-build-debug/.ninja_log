@@ -1,8 +1,18 @@
 # ninja log v6
-5	458	7518475960682465	build.ninja	1cd679021869270c
-11	1208	7518474739603103	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj	8149e097d2bff42b
-1234	1531	7518474751844441	Proyecto_Nociones_Clave.exe	20c5ce9fed672189
-75	1484	7518477948644696	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Persona.cpp.obj	3b5bd35fb2d032ee
-13	1730	7518477948023691	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj	8149e097d2bff42b
+31	185	7518494995872328	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto2/main2.cpp.obj	fd8bfb2c8b116df7
+5	437	7518499939722264	build.ninja	1cd679021869270c
+9	1365	7518493164330265	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj	8149e097d2bff42b
 50	1745	7518477948397659	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Estudiante.cpp.obj	777a598a225d8079
-1745	2216	7518477965346552	Proyecto_Nociones_Clave.exe	214cbf089ae246e6
+75	1484	7518477948644696	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Persona.cpp.obj	3b5bd35fb2d032ee
+37	228	7518493612179139	CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto2/matematicas.cpp.obj	f5d89ea542ceef37
+57	976	7518499666356597	CMakeFiles/Proyecto1.dir/Proyecto1/Persona.cpp.obj	9684fca5045e78e3
+39	1242	7518499666176569	CMakeFiles/Proyecto1.dir/Proyecto1/Estudiante.cpp.obj	5112042ae235cfc8
+21	1263	7518499665986572	CMakeFiles/Proyecto1.dir/Proyecto1/main.cpp.obj	60e474f33a7e700
+1264	1513	7518499678414162	Proyecto1.exe	2ef6b96246c285c
+20	159	7518499760684581	CMakeFiles/Proyecto2.dir/Proyecto2/matematicas.cpp.obj	2dfa6d658cb17d7c
+3	1388	7518499760514565	CMakeFiles/Proyecto2.dir/Proyecto2/main2.cpp.obj	4248e30148e058b9
+1388	1675	7518499774368126	Proyecto2.exe	68577d3a860e958c
+5	432	7518499939722264	build.ninja	1cd679021869270c
+44	227	7518499940943531	CMakeFiles/Proyecto2.dir/Proyecto2/matematicas.cpp.obj	2d9373e9da41637f
+24	706	7518499940742294	CMakeFiles/Proyecto2.dir/Proyecto2/main2.cpp.obj	758186e6bc3dcab0
+706	944	7518499947562586	Proyecto2.exe	68577d3a860e958c

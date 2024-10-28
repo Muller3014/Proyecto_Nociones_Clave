@@ -41,49 +41,88 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Proyecto_Nociones_Clave
+# Object build statements for EXECUTABLE target Proyecto1
 
 
 #############################################
-# Order-only phony target for Proyecto_Nociones_Clave
+# Order-only phony target for Proyecto1
 
-build cmake_object_order_depends_target_Proyecto_Nociones_Clave: phony || .
+build cmake_object_order_depends_target_Proyecto1: phony || .
 
-build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj: CXX_COMPILER__Proyecto_Nociones_Clave_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/main.cpp || cmake_object_order_depends_target_Proyecto_Nociones_Clave
-  DEP_FILE = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1\main.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
-  OBJECT_FILE_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1
+build CMakeFiles/Proyecto1.dir/Proyecto1/main.cpp.obj: CXX_COMPILER__Proyecto1_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/main.cpp || cmake_object_order_depends_target_Proyecto1
+  DEP_FILE = CMakeFiles\Proyecto1.dir\Proyecto1\main.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto1.dir\Proyecto1
 
-build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Estudiante.cpp.obj: CXX_COMPILER__Proyecto_Nociones_Clave_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/Estudiante.cpp || cmake_object_order_depends_target_Proyecto_Nociones_Clave
-  DEP_FILE = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1\Estudiante.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
-  OBJECT_FILE_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1
+build CMakeFiles/Proyecto1.dir/Proyecto1/Estudiante.cpp.obj: CXX_COMPILER__Proyecto1_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/Estudiante.cpp || cmake_object_order_depends_target_Proyecto1
+  DEP_FILE = CMakeFiles\Proyecto1.dir\Proyecto1\Estudiante.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto1.dir\Proyecto1
 
-build CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Persona.cpp.obj: CXX_COMPILER__Proyecto_Nociones_Clave_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/Persona.cpp || cmake_object_order_depends_target_Proyecto_Nociones_Clave
-  DEP_FILE = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1\Persona.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
-  OBJECT_FILE_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir\Proyecto1
+build CMakeFiles/Proyecto1.dir/Proyecto1/Persona.cpp.obj: CXX_COMPILER__Proyecto1_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto1/Persona.cpp || cmake_object_order_depends_target_Proyecto1
+  DEP_FILE = CMakeFiles\Proyecto1.dir\Proyecto1\Persona.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto1.dir\Proyecto1
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Proyecto_Nociones_Clave
+# Link build statements for EXECUTABLE target Proyecto1
 
 
 #############################################
-# Link the executable Proyecto_Nociones_Clave.exe
+# Link the executable Proyecto1.exe
 
-build Proyecto_Nociones_Clave.exe: CXX_EXECUTABLE_LINKER__Proyecto_Nociones_Clave_Debug CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/main.cpp.obj CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Estudiante.cpp.obj CMakeFiles/Proyecto_Nociones_Clave.dir/Proyecto1/Persona.cpp.obj
+build Proyecto1.exe: CXX_EXECUTABLE_LINKER__Proyecto1_Debug CMakeFiles/Proyecto1.dir/Proyecto1/main.cpp.obj CMakeFiles/Proyecto1.dir/Proyecto1/Estudiante.cpp.obj CMakeFiles/Proyecto1.dir/Proyecto1/Persona.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Proyecto_Nociones_Clave.dir
+  OBJECT_DIR = CMakeFiles\Proyecto1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Proyecto_Nociones_Clave.exe
-  TARGET_IMPLIB = libProyecto_Nociones_Clave.dll.a
-  TARGET_PDB = Proyecto_Nociones_Clave.exe.dbg
+  TARGET_FILE = Proyecto1.exe
+  TARGET_IMPLIB = libProyecto1.dll.a
+  TARGET_PDB = Proyecto1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Proyecto2
+
+
+#############################################
+# Order-only phony target for Proyecto2
+
+build cmake_object_order_depends_target_Proyecto2: phony || .
+
+build CMakeFiles/Proyecto2.dir/Proyecto2/main2.cpp.obj: CXX_COMPILER__Proyecto2_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto2/main2.cpp || cmake_object_order_depends_target_Proyecto2
+  DEP_FILE = CMakeFiles\Proyecto2.dir\Proyecto2\main2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto2.dir\Proyecto2
+
+build CMakeFiles/Proyecto2.dir/Proyecto2/matematicas.cpp.obj: CXX_COMPILER__Proyecto2_unscanned_Debug C$:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto$ Nociones$ Clave/Proyecto2/matematicas.cpp || cmake_object_order_depends_target_Proyecto2
+  DEP_FILE = CMakeFiles\Proyecto2.dir\Proyecto2\matematicas.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Proyecto2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Proyecto2.dir\Proyecto2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Proyecto2
+
+
+#############################################
+# Link the executable Proyecto2.exe
+
+build Proyecto2.exe: CXX_EXECUTABLE_LINKER__Proyecto2_Debug CMakeFiles/Proyecto2.dir/Proyecto2/main2.cpp.obj CMakeFiles/Proyecto2.dir/Proyecto2/matematicas.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Proyecto2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Proyecto2.exe
+  TARGET_IMPLIB = libProyecto2.dll.a
+  TARGET_PDB = Proyecto2.exe.dbg
 
 
 #############################################
@@ -111,7 +150,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Proyecto_Nociones_Clave: phony Proyecto_Nociones_Clave.exe
+build Proyecto1: phony Proyecto1.exe
+
+build Proyecto2: phony Proyecto2.exe
 
 # =============================================================================
 # Folder targets.
@@ -121,7 +162,7 @@ build Proyecto_Nociones_Clave: phony Proyecto_Nociones_Clave.exe
 #############################################
 # Folder: C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug
 
-build all: phony Proyecto_Nociones_Clave.exe
+build all: phony Proyecto1.exe Proyecto2.exe
 
 # =============================================================================
 # Built-in targets
