@@ -1,0 +1,37 @@
+# ninja log v6
+4	157	7518503279620306	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	e505a981efc552a2
+4	157	7518503279620306	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	e505a981efc552a2
+158	7387	7518503351919676	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	4df76f064b37f771
+158	7387	7518503351919676	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	4df76f064b37f771
+7390	7684	7518503352055624	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	4b209f2067dfd70c
+7684	7802	7518503356072716	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	cc00af93b7157f1a
+8173	8299	7518503361039792	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	e21b0d3314133af4
+7684	7802	7518503356072716	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	cc00af93b7157f1a
+7390	7684	7518503352055624	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	4b209f2067dfd70c
+7803	7923	7518503357286650	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e53c966f1aa57424
+7803	7923	7518503357286650	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e53c966f1aa57424
+7924	8046	7518503358507292	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	9711e607d24330f6
+7924	8046	7518503358507292	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	9711e607d24330f6
+8299	8462	7518503362673130	CMakeFiles/fmt-populate-complete	e3f6756545420a21
+8047	8173	7518503359772807	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c92c16d65db41cb7
+8047	8173	7518503359772807	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c92c16d65db41cb7
+8173	8299	7518503361039792	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	e21b0d3314133af4
+8299	8462	7518503362673130	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	e3f6756545420a21
+8299	8462	7518503362673130	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	e3f6756545420a21
+8299	8462	7518503362673130	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	e3f6756545420a21
+10	404	7518504052727465	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	4b209f2067dfd70c
+10	404	7518504052727465	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	4b209f2067dfd70c
+405	523	7518504057778173	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	cc00af93b7157f1a
+405	523	7518504057778173	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	cc00af93b7157f1a
+524	674	7518504059207483	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e53c966f1aa57424
+524	674	7518504059207483	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	e53c966f1aa57424
+675	868	7518504061138743	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	9711e607d24330f6
+675	868	7518504061138743	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	9711e607d24330f6
+869	1051	7518504063009234	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c92c16d65db41cb7
+869	1051	7518504063009234	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	c92c16d65db41cb7
+1052	1203	7518504064531870	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	e21b0d3314133af4
+1052	1203	7518504064531870	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	e21b0d3314133af4
+1203	1385	7518504066356718	CMakeFiles/fmt-populate-complete	e3f6756545420a21
+1203	1385	7518504066356718	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	e3f6756545420a21
+1203	1385	7518504066356718	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	e3f6756545420a21
+1203	1385	7518504066356718	C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	e3f6756545420a21
