@@ -1,10 +1,11 @@
 #include "Persona.h"
+using namespace std;
 
-void Persona::setNombre(const std::string &nombre) {
+void Persona::setNombre(const string &nombre) {
     this->nombre = nombre;
 }
 
-std::string Persona::getNombre() {
+string Persona::getNombre() {
     return nombre;
 }
 
@@ -16,10 +17,10 @@ int Persona::getEdad() {
     return edad;
 }
 
-void Persona::setGenero(const std::string &genero) {
+void Persona::setGenero(const string &genero) {
     this->genero = genero;
 }
 
-std::string Persona::getGenero() {
+string Persona::getGenero() {
     return genero;
 }

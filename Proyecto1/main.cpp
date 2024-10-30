@@ -1,6 +1,7 @@
 #include <iostream>
 #include "Estudiante.h"
 #include "Persona.h"
+using namespace std;
 
 #define PI 3.14159
 #define AREA_CIRCULO(r) (PI * (r) * (r))
@@ -13,14 +14,14 @@ int varGlobal = 27;
 int main()
 {
 
-    std::cout << "Hola mundo!" << std::endl;
+    cout << "Hola mundo!" << endl;
 
-    std::cout <<"Pi es igual a: "<< PI << std::endl;
+    cout <<"Pi es igual a: "<< PI << endl;
 
-    std::cout << "La suma es: " << suma(2, 3) << std::endl;
-    std::cout << "El valor de la variable global es: " << varGlobal << std::endl;
-    std::cout << "El valor del area del circulo utilizando la variable global como radio es: " << AREA_CIRCULO(varGlobal) << std::endl;
-    std::cout << "La variable global + 3: " << suma(varGlobal, 3) << "\n" <<std::endl;
+    cout << "La suma es: " << suma(2, 3) << endl;
+    cout << "El valor de la variable global es: " << varGlobal << endl;
+    cout << "El valor del area del circulo utilizando la variable global como radio es: " << AREA_CIRCULO(varGlobal) << endl;
+    cout << "La variable global + 3: " << suma(varGlobal, 3) << "\n" <<endl;
 
 
     Persona persona1;
@@ -29,9 +30,9 @@ int main()
     persona1.setEdad(20);
     persona1.setGenero("Masculino");
 
-    std::cout << "Nombre: " << persona1.getNombre() << std::endl;
-    std::cout << "Edad: " << persona1.getEdad() << std::endl;
-    std::cout << "Genero: " << persona1.getGenero() << std::endl << std::endl;
+    cout << "Nombre: " << persona1.getNombre() << endl;
+    cout << "Edad: " << persona1.getEdad() << endl;
+    cout << "Genero: " << persona1.getGenero() << endl << endl;
 
 
     Estudiante estudiante1;

@@ -5,19 +5,20 @@
 #define PERSONA_H
 
 #include <string>
+using namespace std;
 
 class Persona {
-    std::string nombre;
+    string nombre;
     int edad;
-    std::string genero;
+    string genero;
 
 public:
-    void setNombre(const std::string &nombre);
-    std::string getNombre();
+    void setNombre(const string &nombre);
+    string getNombre();
     void setEdad(int edad);
     int getEdad();
-    void setGenero(const std::string &genero);
-    std::string getGenero();
+    void setGenero(const string &genero);
+    string getGenero();
 };
 
 #endif //PERSONA_H

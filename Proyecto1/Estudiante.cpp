@@ -1,17 +1,18 @@
 #include "Estudiante.h"
 #include <iostream>
+using namespace std;
 
-void Estudiante::setGrado(const std::string &grado) {
+void Estudiante::setGrado(const string &grado) {
     this->grado = grado;
 }
 
-std::string Estudiante::getGrado() {
+string Estudiante::getGrado() {
     return grado;
 }
 
 void Estudiante::mostrarDetalles(){
-    std::cout << "Nombre: " << getNombre() << std::endl;
-    std::cout << "Edad: " << getEdad() << std::endl;
-    std::cout << "Genero: " << getGenero() << std::endl;
-    std::cout << "Grado: " << grado << std::endl;
+    cout << "Nombre: " << getNombre() << endl;
+    cout << "Edad: " << getEdad() << endl;
+    cout << "Genero: " << getGenero() << endl;
+    cout << "Grado: " << grado << endl;
 }
