@@ -6,10 +6,6 @@
 			[
 				{
 					"build" : ".",
-					"childIndexes" : 
-					[
-						1
-					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
@@ -22,31 +18,12 @@
 						0,
 						1
 					]
-				},
-				{
-					"build" : "_deps/fmt-build",
-					"jsonFile" : "directory-_deps.fmt-build-Debug-3459fb3e8eb4bb1485c9.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.1"
-					},
-					"parentIndex" : 0,
-					"projectIndex" : 1,
-					"source" : "cmake-build-debug/_deps/fmt-src",
-					"targetIndexes" : 
-					[
-						2
-					]
 				}
 			],
 			"name" : "Debug",
 			"projects" : 
 			[
 				{
-					"childIndexes" : 
-					[
-						1
-					],
 					"directoryIndexes" : 
 					[
 						0
@@ -56,18 +33,6 @@
 					[
 						0,
 						1
-					]
-				},
-				{
-					"directoryIndexes" : 
-					[
-						1
-					],
-					"name" : "FMT",
-					"parentIndex" : 0,
-					"targetIndexes" : 
-					[
-						2
 					]
 				}
 			],
@@ -86,13 +51,6 @@
 					"jsonFile" : "target-Proyecto2-Debug-ef85ee9af87edb1ebaf4.json",
 					"name" : "Proyecto2",
 					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 1,
-					"id" : "fmt::@976f4f0bee90b99ecdb6",
-					"jsonFile" : "target-fmt-Debug-998556cf984ecc041dc9.json",
-					"name" : "fmt",
-					"projectIndex" : 1
 				}
 			]
 		}
@@ -100,8 +58,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug",
-		"source" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave"
+		"build" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug",
+		"source" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave"
 	},
 	"version" : 
 	{

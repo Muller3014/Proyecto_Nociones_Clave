@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug"
+			"value" : "c:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,199 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave"
-		},
-		{
-			"name" : "CMAKE_INSTALL_BINDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "User executables (bin)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "bin"
-		},
-		{
-			"name" : "CMAKE_INSTALL_DATADIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Read-only architecture-independent data (DATAROOTDIR)"
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_INSTALL_DATAROOTDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Read-only architecture-independent data root (share)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "share"
-		},
-		{
-			"name" : "CMAKE_INSTALL_DOCDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Documentation root (DATAROOTDIR/doc/PROJECT_NAME)"
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_INSTALL_INCLUDEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "C header files (include)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "include"
-		},
-		{
-			"name" : "CMAKE_INSTALL_INFODIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Info documentation (DATAROOTDIR/info)"
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_INSTALL_LIBDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Object code libraries (lib)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "lib"
-		},
-		{
-			"name" : "CMAKE_INSTALL_LIBEXECDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Program executables (libexec)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "libexec"
-		},
-		{
-			"name" : "CMAKE_INSTALL_LOCALEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Locale-dependent data (DATAROOTDIR/locale)"
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_INSTALL_LOCALSTATEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Modifiable single-machine data (var)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "var"
-		},
-		{
-			"name" : "CMAKE_INSTALL_MANDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Man documentation (DATAROOTDIR/man)"
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_INSTALL_OLDINCLUDEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "C header files for non-gcc (/usr/include)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "/usr/include"
+			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -852,70 +660,6 @@
 			],
 			"type" : "PATH",
 			"value" : "C:/Program Files (x86)/Proyecto_Nociones_Clave"
-		},
-		{
-			"name" : "CMAKE_INSTALL_RUNSTATEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Run-time variable data (LOCALSTATEDIR/run)"
-				}
-			],
-			"type" : "PATH",
-			"value" : ""
-		},
-		{
-			"name" : "CMAKE_INSTALL_SBINDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "System admin executables (sbin)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "sbin"
-		},
-		{
-			"name" : "CMAKE_INSTALL_SHAREDSTATEDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Modifiable architecture-independent data (com)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "com"
-		},
-		{
-			"name" : "CMAKE_INSTALL_SYSCONFDIR",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Read-only single-machine data (etc)"
-				}
-			],
-			"type" : "PATH",
-			"value" : "etc"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -943,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1051,7 +795,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "1"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1535,7 +1279,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps"
+			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps"
 		},
 		{
 			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
@@ -1598,186 +1342,6 @@
 			"value" : "OFF"
 		},
 		{
-			"name" : "FMT_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-build"
-		},
-		{
-			"name" : "FMT_CUDA_TEST",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Generate the cuda-test target."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_DEBUG_POSTFIX",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Debug library postfix."
-				}
-			],
-			"type" : "STRING",
-			"value" : "d"
-		},
-		{
-			"name" : "FMT_DOC",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Generate the doc target."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_FUZZ",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Generate the fuzz target."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_HAS_MBIG_OBJ",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Test FMT_HAS_MBIG_OBJ"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : ""
-		},
-		{
-			"name" : "FMT_HAS_VARIANT",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Test FMT_HAS_VARIANT"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "1"
-		},
-		{
-			"name" : "FMT_INC_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Installation directory for include files, a relative path that will be joined with C:/Program Files (x86)/Proyecto_Nociones_Clave or an absolute path."
-				}
-			],
-			"type" : "STRING",
-			"value" : "include"
-		},
-		{
-			"name" : "FMT_INSTALL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Generate the install target."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_OS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Include core requiring OS (Windows/Posix) "
-				}
-			],
-			"type" : "BOOL",
-			"value" : "ON"
-		},
-		{
-			"name" : "FMT_PEDANTIC",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable extra warnings and expensive tests."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-src"
-		},
-		{
-			"name" : "FMT_TEST",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Generate the test target."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "FMT_WERROR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Halt the compilation with an error on compiler warnings."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
 			"name" : "GIT_EXECUTABLE",
 			"properties" : 
 			[
@@ -1794,18 +1358,6 @@
 			"value" : "C:/Program Files/Git/cmd/git.exe"
 		},
 		{
-			"name" : "HAVE_STRTOD_L",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Have symbol _strtod_l"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "1"
-		},
-		{
 			"name" : "Proyecto_Nociones_Clave_BINARY_DIR",
 			"properties" : 
 			[
@@ -1815,7 +1367,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug"
+			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug"
 		},
 		{
 			"name" : "Proyecto_Nociones_Clave_IS_TOP_LEVEL",
@@ -1839,19 +1391,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave"
-		},
-		{
-			"name" : "SUPPORTS_USER_DEFINED_LITERALS",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Test SUPPORTS_USER_DEFINED_LITERALS"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "1"
+			"value" : "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
@@ -1864,42 +1404,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
-		},
-		{
-			"name" : "_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "CMAKE_INSTALL_PREFIX during last run"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "C:/Program Files (x86)/Proyecto_Nociones_Clave"
-		},
-		{
-			"name" : "has_std_20_flag",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Test has_std_20_flag"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "1"
-		},
-		{
-			"name" : "has_std_2a_flag",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Test has_std_2a_flag"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "1"
 		}
 	],
 	"kind" : "cache",

@@ -1,7 +1,4 @@
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/Proyecto1.dir
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/Proyecto2.dir
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
-C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/Proyecto1.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/Proyecto2.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/CMakeFiles/rebuild_cache.dir
