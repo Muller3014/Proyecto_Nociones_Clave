@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-src"
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-build"
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix"
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/tmp"
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp"
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src"
-  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-src"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-build"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/tmp"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src"
+  "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

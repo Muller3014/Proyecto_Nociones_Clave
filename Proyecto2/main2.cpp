@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
 
-    cout << "\nHello World!\n";
+    cout << "Hello World!\n";
     cout << "La suma de 8 y 3: " << suma(8, 3) << endl;
     cout << "La resta de 8 y 3: " << resta(8, 3) << endl;
     cout << "La division entre 10 y 5: " << divide(10,5) << endl;

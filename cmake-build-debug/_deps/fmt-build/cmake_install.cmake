@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/gonza/Desktop/UNI/PROGRAMACION/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-src
+# Install script for directory: C:/Users/gonza/Desktop/UNI/PROGRAMACION/RUBEN/C/Proyecto Nociones Clave/cmake-build-debug/_deps/fmt-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
